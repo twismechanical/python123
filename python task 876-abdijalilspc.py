@@ -1,0 +1,11 @@
+# print("hello world i like fortnite")
+# print("My name is Abdijalil Junet Sheikhnuh Mohamed")
+# print("my favourite food is pizza")
+# print("My favourite hobby is playing games")
+# print("my favourite colour is black")
+# #activities to create a simple profile(comments,comments are not executed when you run youre programe)
+# print("Name:Abdijalil Junet Sheikhnuh Mohamed")
+# print("favourite colour: Black")
+# print("Hobby: Playing games")
+#My name and favourite color
+print("My name is abdijalil and my favourite color is black")

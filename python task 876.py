@@ -1,0 +1,5 @@
+print("hello world i like fortnite")
+print("My name is Abdijalil Junet Sheikhnuh Mohamed")
+print("my favourite food is pizza")
+print("My favourite hobby is playing games")
+print("my favourite colour is black")
